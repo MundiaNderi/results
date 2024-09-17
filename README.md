@@ -14,7 +14,7 @@ The challenge is to build out this Tip calculator app and get it looking as clos
 
 ### What I learned
 
-- I am following this [Learning Path by Frontend Mentor](https://www.frontendmentor.io/learning-paths/javascript-fundamentals-oR7g6-mTZ-/steps/6620e31b2f40450f91cf926c/article/read) . I'm learning a lot on Working with Data and JavaScript Frameworks. It's great to come back to basics once in a while.
+- I am following this [Learning Path by Frontend Mentor](https://www.frontendmentor.io/learning-paths/javascript-frameworks-and-libraries-JDWoqQjMyb/steps/66e07d1e5832c087f22c0253/challenge/start) . I'm learning a lot on Working with Data and JavaScript Frameworks. It's great to come back to basics once in a while.
 
 ## Deployed your project
 
