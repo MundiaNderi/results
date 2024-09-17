@@ -59,7 +59,7 @@ const Summary = () => {
         );
       })}
       <div className="flex justify-center items-center">
-        <button className="results text-white px-3 p-2 w-full md:w-1/2 rounded-full my-4 hover:bg-darkGrayBlue">
+        <button className=" text-white px-3 p-2 w-full md:w-1/2 rounded-full my-4 bg-darkGrayBlue hover:bg-blue-700">
           Continue
         </button>
       </div>
