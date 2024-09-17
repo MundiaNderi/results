@@ -36,7 +36,7 @@ const getCategoryColor = (category) => {
 
 const Summary = () => {
   return (
-    <div className=" mx-8 md:mr-10 md:mx-0">
+    <div className=" mx-8 md:mr-8 md:mx-0">
       <h1 className=" text-darkGrayBlue font-bold text-2xl py-4 ">Summary</h1>
       {data.map((result, index) => {
         return (

@@ -16,8 +16,8 @@ const Results = () => {
       </div>
       <div className="rate flex flex-col justify-center items-center my-4">
         <h2 className="text-white text-3xl">Great</h2>
-        <p className="text-center text-lightLavender mt-2 mx-16">
-          Your performance exceeded 65% of the people conducting the test here.
+        <p className="text-center text-lightLavender mt-2 mx-6">
+          Your performance exceeded 65% of the people conducting the test here!
         </p>
       </div>
     </div>
